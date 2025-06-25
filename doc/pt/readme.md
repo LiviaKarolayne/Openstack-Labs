@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="./doc/pt/readme.md" style="
+  <a href="../../README.md" style="
     background-color: #0E80C3;
     color: white;
     padding: 4px 12px;
@@ -20,15 +20,15 @@
     font-weight: bold;
     font-family: Arial, sans-serif;
   ">
-    PT
+    EN
   </a>
 </p>
 </div>
 
-Repository dedicated to the creation and organization of hands-on labs focused on **OpenStack**, including documentation, detailed configurations, and automations to simplify learning and using the platform.
+Repositório dedicado à criação e organização de laboratórios práticos focados em **OpenStack**, com documentações, configurações detalhadas e automações para facilitar o aprendizado e uso da plataforma.
 
-## Contributions
+## Contribuições
 
-Feel free to contribute your own examples and improvements, helping build a collaborative resource that benefits the entire OpenStack community by bringing together diverse experiences and perspectives.
+Sinta-se à vontade para contribuir com seus próprios exemplos e melhorias, ajudando a construir um recurso colaborativo que beneficie toda a comunidade OpenStack, reunindo diferentes experiências e perspectivas.
 
 ☁️✨
