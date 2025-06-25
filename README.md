@@ -1,7 +1,7 @@
 <p style="line-height: 1.5;">
-  <img src="https://img.shields.io/github/license/liviakarolayne/openstack-labs?color=5B0F3D" alt="License" />
-  <img src="https://img.shields.io/github/repo-size/liviakarolayne/openstack-labs?color=5B0F3D" alt="Repo size" />
-  <img src="https://img.shields.io/github/last-commit/liviakarolayne/openstack-labs?color=5B0F3D" alt="Last Commit" />
+  <img src="https://img.shields.io/github/license/liviakarolayne/openstack-labs?style=flat&color=5B0F3D" alt="License" />
+  <img src="https://img.shields.io/github/repo-size/liviakarolayne/openstack-labs?style=flat&color=5B0F3D" alt="Repo size" />
+  <img src="https://img.shields.io/github/last-commit/liviakarolayne/openstack-labs?style=flat&color=5B0F3D" alt="Last Commit" />
 </p>
 
 # OpenStack Labs
